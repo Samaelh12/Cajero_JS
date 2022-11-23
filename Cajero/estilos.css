@@ -1,0 +1,11 @@
+
+#ATM {
+    background-color: rgb(86, 8, 132);
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+#devf {
+    width: 10em;
+}
